@@ -1,0 +1,10 @@
+.title {
+  color: rgb(22, 59, 128);
+}
+
+.description {
+  color: #888;
+  font-style: italic;
+  font-size: 1em;
+  margin-top: 10px;
+}
